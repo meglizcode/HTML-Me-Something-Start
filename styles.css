@@ -1,1 +1,12 @@
 /* Write your CSS here! */
+header {
+    text-size-adjust: large;
+}
+body {
+    background-color:#eee8e8;
+    color: #2f3c3f;
+    text-align: center;
+}
+.rounded-image {
+    border-radius: 2%;
+}
