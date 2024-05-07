@@ -1,12 +1,36 @@
 /* Write your CSS here! */
-header {
-    text-size-adjust: large;
+#mainHeading {
+    font-size: 150px;
+    margin: 0;
+    /* color: red; */
 }
 body {
     background-color:#eee8e8;
     color: #2f3c3f;
     text-align: center;
+    margin: 8px;
+    display: block;
 }
 .rounded-image {
     border-radius: 2%;
+}
+
+figure {
+    display: inline-block;
+    margin: 1% 1%;
+    vertical-align: top;
+}
+#Day1 {
+    color:#5e6e6e;
+}
+#Day2 {
+    color:#6b6e41;
+}
+#Day3 {
+    color:#5e6e6e
+}
+#testP.funParagraph {
+    background-color: #e2cdc4;
+    margin: 0% 20%;
+    /* color: green; */
 }
